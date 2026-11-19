@@ -1,5 +1,5 @@
-# CI/CD and Docker Multi-Stage Optimizer
+# cicd-docker-optimizer-bounty
 
-Soluciones técnicas automatizadas para mejorar pipelines de integración continua y reducir tamaño de contenedores Docker.
+Este proyecto está en pausa y no ofrece ningún producto ni servicio a la venta.
 
-- Destinatario de pagos: PayPal (lucianobenech@gmail.com) / USDT TRC20 (TYndYVBb42q6U79tCm3VQzzhv2FtwAndhc)
+Herramienta gratuita disponible: [Calculadora de Comisiones LatAm](https://lucho-design1.github.io/fee-calculator-latam/)
